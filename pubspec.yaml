@@ -1,6 +1,6 @@
 name: app_install
 description: install app by given file path
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/hss01248/app_install
 
 environment:

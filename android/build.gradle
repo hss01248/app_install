@@ -34,5 +34,5 @@ android {
     }
 }
 dependencies {
-    api 'com.github.hss01248.jenkinsTool:apkInstaller:1.0.0'
+    api 'com.github.hss01248.jenkinsTool2:apkInstaller:1.0.0'
 }
